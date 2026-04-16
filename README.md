@@ -23,3 +23,6 @@ This system is a diagnostic engine that is clinically graded and has been develo
 2. Install all required dependencies (PyTorch, StreamLit, OpenCV, Scikit-Learn, PIL).
    ```bash
    pip install -r requirements.txt
+
+File Drive Link
+https://drive.google.com/drive/u/1/folders/11vKQZOsX0jAFh-xSfGeGSDbbgcQGQcUr
